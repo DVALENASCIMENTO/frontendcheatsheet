@@ -1,0 +1,135 @@
+[
+  {
+    "number": 1,
+    "emoji": "🟢",
+    "title": "Fundamentos da Web",
+    "color": "green",
+    "commands": [
+      {
+        "cmd": "HTML",
+        "desc": "HTML (HyperText Markup Language) é a linguagem de marcação padrão para criar páginas na web. Define a estrutura do conteúdo usando elementos como títulos, parágrafos, listas, links e imagens.",
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+      },
+      {
+        "cmd": "CSS",
+        "desc": "CSS (Cascading Style Sheets) é usado para estilizar e definir o layout de páginas HTML. Com ele, é possível aplicar cores, fontes, espaçamentos, posicionamento e responsividade.",
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
+      },
+      {
+        "cmd": "JavaScript",
+        "desc": "JavaScript é a linguagem de programação da web. Permite adicionar interatividade, validações, animações e lógica dinâmica às páginas HTML.",
+        "link": "https://dvalenascimento.github.io/jscheatsheet/"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "emoji": "🟡",
+    "title": "Ferramentas Essenciais",
+    "color": "yellow",
+    "commands": [
+      {
+        "cmd": "Git e GitHub",
+        "desc": "Git é um sistema de controle de versão. GitHub é uma plataforma que permite hospedagem de código e colaboração entre desenvolvedores.",
+        "link": "https://dvalenascimento.github.io/gitcheatsheet/"
+      },
+      {
+        "cmd": "VS Code",
+        "desc": "Visual Studio Code é um dos editores de código mais populares, com suporte a extensões, depuração, Git integrado e temas personalizáveis.",
+        "link": "https://code.visualstudio.com/"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "emoji": "🔵",
+    "title": "Primeiros Frameworks e Design",
+    "color": "blue",
+    "commands": [
+      {
+        "cmd": "Bootstrap",
+        "desc": "Framework CSS que facilita a criação de layouts responsivos e estilizados com componentes prontos, como botões, cards, modais e menus.",
+        "link": "https://getbootstrap.com/"
+      },
+      {
+        "cmd": "UX/UI",
+        "desc": "UX (User Experience) trata da experiência do usuário ao usar o sistema. UI (User Interface) foca na parte visual e na interação da interface.",
+        "link": "https://uxdesign.cc/"
+      },
+      {
+        "cmd": "Figma",
+        "desc": "Ferramenta de design colaborativo para criar protótipos, wireframes e interfaces visuais para projetos web e mobile.",
+        "link": "https://www.figma.com/"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "emoji": "🟠",
+    "title": "Lógica e Comunicação com o Servidor",
+    "color": "orange",
+    "commands": [
+      {
+        "cmd": "Fetch API / Axios",
+        "desc": "Bibliotecas que permitem fazer requisições HTTP para consumir dados de APIs. Fetch é nativo do JS; Axios é uma biblioteca externa com recursos adicionais.",
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API"
+      },
+      {
+        "cmd": "JSON",
+        "desc": "JSON (JavaScript Object Notation) é um formato leve de troca de dados entre sistemas. Usado amplamente em APIs e armazenamento de configurações.",
+        "link": "https://www.json.org/json-pt.html"
+      },
+      {
+        "cmd": "HTTP (GET, POST...)",
+        "desc": "O protocolo HTTP define métodos como GET (obter dados), POST (enviar dados), PUT, DELETE, usados na comunicação cliente-servidor.",
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "emoji": "🟣",
+    "title": "Frameworks JavaScript",
+    "color": "purple",
+    "commands": [
+      {
+        "cmd": "React.js",
+        "desc": "Biblioteca JavaScript para construir interfaces de usuário com componentes reutilizáveis. Muito utilizada em aplicações modernas.",
+        "link": "https://dvalenascimento.github.io/reactcheatsheet/"
+      },
+      {
+        "cmd": "Vue.js",
+        "desc": "Framework progressivo para construir interfaces, conhecido por sua simplicidade e curva de aprendizado suave.",
+        "link": "https://vuejs.org/"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "emoji": "🔴",
+    "title": "Tecnologias Avançadas",
+    "color": "red",
+    "commands": [
+      {
+        "cmd": "TypeScript",
+        "desc": "Superset do JavaScript que adiciona tipagem estática e recursos avançados, tornando o código mais robusto e fácil de manter.",
+        "link": "https://www.typescriptlang.org/"
+      },
+      {
+        "cmd": "Next.js",
+        "desc": "Framework baseado em React que permite renderização do lado do servidor (SSR), roteamento automático e otimizações para SEO.",
+        "link": "https://nextjs.org/"
+      },
+      {
+        "cmd": "Testes (Jest, Cypress)",
+        "desc": "Ferramentas para testes automatizados. Jest é voltado a testes unitários; Cypress é ideal para testes de interface e integração.",
+        "link": "https://jestjs.io/"
+      },
+      {
+        "cmd": "CI/CD",
+        "desc": "Integração Contínua e Entrega Contínua automatizam testes e deploy de aplicações. GitHub Actions, GitLab CI e Jenkins são exemplos.",
+        "link": "https://www.atlassian.com/continuous-delivery"
+      }
+    ]
+  }
+]
