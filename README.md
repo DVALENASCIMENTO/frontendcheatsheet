@@ -1,1 +1,1 @@
-https://dvalenascimento.github.io/adscheatsheet/
+https://dvalenascimento.github.io/frontendcheatsheet/
